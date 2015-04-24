@@ -1,13 +1,12 @@
-# MaterialPress v 0.1
+# MaterialDNA v 0.1
 
-![Materialize Screenshot](screenshot.png)
-
-Welcome to the beginning of MaterialPress! 
+Welcome to the beginning of MaterialDNA! 
 ------------------------------------------
+Note: The original body of work was forked from alexpatin, and the theme framework frontend is driven by Materialize.
 
-MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy. Several front end styles have been adapted from the [Materialize](https://github.com/Dogfalo/materialize) front-end framework. 
+MaterialDNA is a MaterialDNA theme, influenced heavily by Google's Material Design philosophy. Several front end styles have been adapted from the [Materialize](https://github.com/Dogfalo/materialize) front-end framework. 
 
-MaterialPress is in extreme infancy, (*I had the idea just a few days ago*), so I am looking forward to adding more to make this a quality open source WordPress theme for those of us who love and appreciate Google's new aesthetic. 
+MaterialDNA is in extreme infancy. The theme seeks to bridge the gap between traditional bootstrap themes, of which there are hundreds available, both free and premium, to the more standards based Google Material Design, which in my opinion is better across the board no matter the screen size. It is built from responsive mobile design out, meaning that it will always render correctly on small screens, and it will grow gracefully to the larger laptop and desktop screens.  
 
 ---
 
@@ -32,6 +31,6 @@ MaterialPress is in extreme infancy, (*I had the idea just a few days ago*), so 
 
 More features will be added to the roadmap as time goes on. I'm shooting to have the first public version of the theme ready for testing and submission to the theme repository soon.
 
-Feel free to contact me via [email](mailto:patin.alex@gmail.com) or [my website](http://alexpatin.com) if you have any questions or if you are interested in helping make MaterialPress! You are more than welcome to fork and contibute if you have any ideas.
+Feel free to contact me via [email](mailto:johnteag@gmail.com) or [my website](http://johnteagye.me) if you have any questions or if you are interested in helping make MaterialDNA! You are more than welcome to fork and contibute if you have any ideas.
 
 License: GPL v2
